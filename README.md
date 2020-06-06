@@ -1,7 +1,7 @@
 # php 验证吗类
 
 # 安装
-> git clone
+> git clone https://github.com/zywgitshow/Captcha.git
 # 使用
     引入 Captcha.php 文件
     $captcha=new Captcha();
